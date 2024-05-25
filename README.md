@@ -38,6 +38,17 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=paralkarkedar&layout=compact&theme=radical)
 
+## 🏆 Problem Solving Stats
+
+### LeetCode
+
+![LeetCode Stats](https://leetcode-stats-api.herokuapp.com/kedar_paralkar)
+
+### GeeksforGeeks
+
+![GeeksforGeeks Stats](https://geeksforgeeks-stats-api.herokuapp.com/kedar_paralkar)
+
+
 ## 📫 How to Reach Me
 
 - 📧 Email: kedarparalkar503@gmail.com
