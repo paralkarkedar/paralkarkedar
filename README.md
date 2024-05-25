@@ -34,9 +34,9 @@
 
 ## 📈 GitHub Stats
 
-![Kedar's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)
+![Kedar's GitHub stats](https://github-readme-stats.vercel.app/api?username=paralkarkedar&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=paralkarkedar&layout=compact&theme=radical)
 
 ## 📫 How to Reach Me
 
