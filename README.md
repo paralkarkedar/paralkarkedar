@@ -36,17 +36,17 @@
 
 ![Kedar's GitHub stats](https://github-readme-stats.vercel.app/api?username=paralkarkedar&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=paralkarkedar&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=paralkarkedar&layout=compact&theme=radical)z
 
 ## 🏆 Problem Solving Stats
 
 ### LeetCode
 
-[![LeetCode Stats](https://img.shields.io/badge/LeetCode-{{ solved_leetcode }}_solved-green?style=for-the-badge)](https://leetcode.com/u/kedar_paralkar/)
+[![LeetCode Stats](https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge)](https://leetcode.com/kedar_paralkar/)
 
 ### GeeksforGeeks
 
-[![GeeksforGeeks Stats](https://img.shields.io/badge/GeeksforGeeks-{{ solved_geeksforgeeks }}_solved-blue?style=for-the-badge)](https://www.geeksforgeeks.org/user/kedar_paralkar/)
+[![GeeksforGeeks Stats](https://img.shields.io/badge/GeeksforGeeks-Profile-green?style=for-the-badge)](https://www.geeksforgeeks.org/user/kedar_paralkar/)
 
 
 ## 📫 How to Reach Me
