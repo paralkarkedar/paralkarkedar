@@ -36,7 +36,7 @@
 
 ![Kedar's GitHub stats](https://github-readme-stats.vercel.app/api?username=paralkarkedar&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=paralkarkedar&layout=compact&theme=radical)z
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=paralkarkedar&layout=compact&theme=radical)
 
 ## 🏆 Problem Solving Stats
 
@@ -57,20 +57,7 @@
 
 ## 🏆 Projects
 
-Here are some of my notable projects:
 
-### Tic Tac Toe Game for Kids 🎮
-A simple, fun, and interactive Tic Tac Toe game developed using HTML, CSS, and JavaScript.
-
-### [Project Name] 📱
-Description of the project, the technologies used, and the functionality.
-
-### [Project Name] 🌐
-Description of the project, the technologies used, and the functionality.
-
-Feel free to explore my repositories to see more of my work!
-
----
 
 ⭐️ From [Kedar Paralkar](https://github.com/paralkarkedar)
 
