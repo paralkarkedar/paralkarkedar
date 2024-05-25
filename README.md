@@ -42,11 +42,11 @@
 
 ### LeetCode
 
-![LeetCode Stats](https://leetcode-stats-api.herokuapp.com/kedar_paralkar)
+[![LeetCode Stats](https://leetcode-badge.chyroc.cn/?username=kedar_paralkar)](https://leetcode.com/u/kedar_paralkar/)
 
 ### GeeksforGeeks
 
-![GeeksforGeeks Stats](https://geeksforgeeks-stats-api.herokuapp.com/kedar_paralkar)
+[![GeeksforGeeks Stats](https://geeksforgeeks-badge.herokuapp.com/?username=kedar_paralkar)](https://www.geeksforgeeks.org/user/kedar_paralkar/)
 
 
 ## 📫 How to Reach Me
