@@ -9,11 +9,11 @@
 - 🔭 I have a strong foundation in both frontend and backend development.
 - 🌱 I am skilled in:
   - **Frontend Development**: HTML, CSS, React
-  - **Backend Development**: Django, Node.js
+  - **Backend Development**: Django, Node.js, JavaScript, Python, Java
 - 👨‍💻 I am familiar with Java and advanced Java.
 - 💻 My programming languages are Java and Python.
 - 🌟 I have solved 200 coding questions on LeetCode and 120 questions on GeeksforGeeks.
-- 📱 I have developed various applications in Android and websites using HTML, CSS, JavaScript, and React.
+- 📱 I have developed various applications in Android and websites using Java, XMl, Kotlin, HTML, CSS, JavaScript, and React.
 
 ## 🛠️ Skills
 
@@ -28,9 +28,9 @@
 
 ## 🌐 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-linkedin-profile)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/your-github-username)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kedar-paralkar-923881280/)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/paralkarkedar)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](kedarparalkar503@gmail.com)
 
 ## 📈 GitHub Stats
 
@@ -40,9 +40,9 @@
 
 ## 📫 How to Reach Me
 
-- 📧 Email: your.email@example.com
-- 🌐 [LinkedIn](https://www.linkedin.com/in/your-linkedin-profile)
-- 💻 [GitHub](https://github.com/your-github-username)
+- 📧 Email: kedarparalkar503@gmail.com
+- 🌐 [LinkedIn](https://www.linkedin.com/in/kedar-paralkar-923881280/)
+- 💻 [GitHub](https://github.com/paralkarkedar)
 
 ## 🏆 Projects
 
@@ -61,5 +61,5 @@ Feel free to explore my repositories to see more of my work!
 
 ---
 
-⭐️ From [Kedar Paralkar](https://github.com/your-github-username)
+⭐️ From [Kedar Paralkar](https://github.com/paralkarkedar)
 
