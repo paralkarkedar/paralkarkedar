@@ -49,6 +49,12 @@
 
 [![GeeksforGeeks Stats](https://img.shields.io/badge/GeeksforGeeks-Profile-green?style=for-the-badge)](https://www.geeksforgeeks.org/user/kedar_paralkar/)
 
+## 💼 Portfolio
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit_My_Site-ff69b4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://portfolio-sreg.vercel.app/)
+
+[![Portfolio Preview](https://via.placeholder.com/800x400.png?text=Portfolio+Preview)](https://portfolio-sreg.vercel.app/)
+
 
 ## 📫 How to Reach Me
 
