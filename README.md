@@ -14,10 +14,6 @@
 
 🎓 I'm a final year BTech student at Maharashtra Institute of Technology, Aurangabad, specializing in Computer Science and Engineering (CSE).
 
-<div align="center">
-  <img src="https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif" alt="Coding" width="300"/>
-</div>
-
 ## 🚀 About Me
 
 - 🔭 I have a strong foundation in both frontend and backend development.
